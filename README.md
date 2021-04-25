@@ -1,8 +1,5 @@
 # Professional TypeScript
 
-![Node.js CI](https://github.com/mike-north/professional-ts/workflows/Node.js%20CI/badge.svg)
-![ts-nightly compat](https://github.com/mike-north/professional-ts/workflows/TypeScript@Next%20tests/badge.svg)
-
 ## What's this course about?
 
 This course is intended to help those already somewhat familiar with TypeScript as a programming language, to the point where they're more ready to use it in a real situation with real stakes. Mike shares some of the experience he's had as LinkedIn's TypeScript infrastructure lead, so you don't have to learn things "the hard way" like he did.
@@ -18,7 +15,7 @@ ssh git@github.com
 and getting a response like
 
 ```sh
-Hi mike-north! You've successfully authenticated, but GitHub does not provide shell access.
+Hi veerashayyagari! You've successfully authenticated, but GitHub does not provide shell access.
 Connection to github.com closed.
 ```
 
@@ -33,7 +30,7 @@ We also strongly recommend the use of [Visual Studio Code](https://code.visualst
 Next, checkout a working copy of this project
 
 ```sh
-git clone git@github.com:mike-north/professional-ts
+git clone git@github.com:veerashayygari/professional-ts
 ```
 
 enter the directory you just created
@@ -63,11 +60,3 @@ yarn dev
 Changing any files in the `src` folder will result in an incremental rebuild, and a refresh of the screen.
 
 By default, the app is served on http://localhost:3000.
-
-# Legal
-
-&copy; 2020 LinkedIn, All Rights Reserved
-
-## Licensing
-
-The code in this project is licensed as [BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause) license, and the written content in the ./notes folder is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
